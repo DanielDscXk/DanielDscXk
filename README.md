@@ -1,5 +1,5 @@
-### E aii 👋
-# Eu sou Daniel
+
+# Eaii 🤙, Eu sou Daniel Charrê, Desenvolvedor Web e apaixonado por tecnologia
 
 
 
@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDscXk&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Liguagem que domino
+##
 
 
 <div style="display: inline_block"><br>
@@ -26,12 +26,7 @@
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-          
-          
 </div>
-
-
-<br><br><br>
 
 #
 <a href="https://www.facebook.com" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
